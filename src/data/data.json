@@ -1,0 +1,164 @@
+{
+  "Header": {
+    "title": "Cleanup & Restoration",
+    "paragraph": "Cleaning, Restoration, Building, Ready to Assist 24/7."
+  },
+  "About": {
+    "paragraph": "\nWe specialize in providing top-notch water damage restoration services. With years of experience and a team of highly trained professionals, we are dedicated to helping you recover quickly and efficiently from water-related disasters. Our comprehensive services include water extraction, drying, dehumidification, and complete restoration to ensure your home or business is returned to its original condition. We understand the stress and disruption that water damage can cause, which is why we are available 24/7 to respond to emergencies. Our commitment to using the latest technology and industry best practices guarantees effective and reliable results every time. Your peace of mind is our priority. Trust us to restore your property and get your life back on track. We’re here to help when you need us most.",
+    "Why": [
+      "Expert Technicians",
+      "Prompt Service",
+      "Quality Workmanship",
+      "Transparent Pricing"
+    ],
+    "Why2": [
+      "Customer Satisfaction",
+      "Reliable Repairs",
+      "Safety Assurance",
+      "Trusted Experience"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/storm-and-flood-damage-recover-from-flood-damage-with-concraft.jpg",
+      "smallImage": "img/storm-and-flood-damage-recover-from-flood-damage-with-concraft.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/Water-damage-restoration.jpg",
+      "smallImage": "img/Water-damage-restoration.jpg"
+    },
+    {
+      "title": "Two doors",
+      "largeImage": "img/storm-and-flood-damage-recover-from-flood-damage-with-concraft.jpg",
+      "smallImage": "img/storm-and-flood-damage-recover-from-flood-damage-with-concraft.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "img": "img/storm-and-flood-damage-recover-from-flood-damage-with-concraft.jpg",
+      "name": "Flood Damage",
+      "text": "Our flood damage service offers rapid response, water extraction,"
+    },
+    {
+      "icon": "fa fa-sliders",
+      "img": "img/comercial-resto.jpeg",
+      "name": "Commercial Restoration",
+      "text": "Innovative Technology: State-of-the-art garage door opener systems designed for seamless operation and convenience."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "img": "img/how-home-leak-detection-can-help-prevent-costly-water-damage.jpg",
+      "name": "Leak Detection",
+      "text": "Prompt Service: Swift and efficient repair solutions to address any issues with your garage door, restoring functionality in no time."
+    },
+    {
+      "icon": "fa fa-database",
+      "img": "img/odor-removal.jpeg",
+      "name": "Odor Removal",
+      "text": "Vital Components: Garage door springs play a crucial role in the smooth operation of your door, providing balance and support."
+    },
+    {
+      "icon": "fa fa-gavel",
+      "img": "img/mold-removal.jpeg",
+      "name": "Mold Removal",
+      "text": "Customized garage door installation services to match your specific preferences and architectural style."
+    },
+    {
+      "icon": "fa fa-refresh",
+      "img": "img/water-damage.jpeg",
+      "name": "Water Damage Restoration",
+      "text": "Safety Assessment: Thorough inspection to identify any issues with your garage door cables, prioritizing safety."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Exceptional service! Prompt, professional, and reliable. Highly recommend for any home needs.\"",
+      "name": "Christopher Davis"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Outstanding workmanship! Our home was cleaned swiftly and efficiently. Couldn't be happier with the results.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Transparent pricing and honest communication throughout the cleaning process. Definitely my go-to for any home issues.\"",
+      "name": "David Brown"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Exceptional service! Flood Damage Services responded quickly, worked efficiently, and restored my home perfectly. Professional, thorough, and highly recommended!\"",
+      "name": "Sarah Williams"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Trustworthy company with a strong focus on safety. I feel confident knowing they handle all our garage door repairs.\"",
+      "name": "Michael Smith"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Top-notch service from start to finish. Their experienced team made the whole experience hassle-free. Would definitely use again!\"",
+      "name": "Emily Johnson"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "far fa-garage",
+      "img": "img/water-damage-res.png",
+      "title": "Water Damage Restoration",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "img": "img/mold-removal.png",
+      "title": "Mold Removal",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-group",
+      "img": "img/odor-removal.png",
+      "title": "Odor Removal",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-magic",
+      "img": "img/leak-detection.png",
+      "title": "Leak Detection",
+      "text": ""
+    }
+  ]
+}
