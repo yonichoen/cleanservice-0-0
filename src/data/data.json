@@ -31,7 +31,7 @@
     },
     {
       "title": "Two doors",
-      "largeImage": "img/main-qimg-4936eb3618004501e474b406bf9b74fa-lq.jpeg",
+      "largeImage": "img/main-qimg-4936eb3618004501e474b406bf9b74fa-lq.jpeggi",
       "smallImage": "img/main-qimg-4936eb3618004501e474b406bf9b74fa-lq.jpeg"
     }
   ],
@@ -68,7 +68,7 @@
     },
     {
       "icon": "fa fa-refresh",
-      "img": "img/water-damage.jpeg",
+      "img": "img/",
       "name": "Water Damage Restoration",
       "text": "Rapid water damage restoration services ensuring swift recovery and comprehensive property repair."
     }
@@ -139,7 +139,7 @@
     {
       "icon": "far fa-garage",
       "img": "img/water-damage-res.png",
-      "title": "Water Damage Restoration",
+      "title": "Water Damage",
       "text": ""
     },
     {
