@@ -20,7 +20,7 @@ export const Navigation = (props) => {
           <a
             className="navbar-brand page-scroll"
             href="#page-top"
-            style={{ fontFamily: "fantasy" }}
+            style={{ fontFamily: "fantasy", maxWidth: "250px" }}
           >
             CLEANUP & RESTORATION
           </a>{" "}
